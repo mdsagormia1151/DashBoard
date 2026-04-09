@@ -1,0 +1,7 @@
+[
+  { "link": "https://youtube.com/", "banner": "./banner/youtube.png" },
+  { "link": "https://investing.com/", "banner": "./banner/investing.png" },
+  { "link": "https://marketwatch.com/", "banner": "./banner/marketwatch.png" },
+  { "link": "https://tradingeconomics.com/", "banner": "./banner/tradingeconomics.png" },
+  { "link": "https://mail.google.com/", "banner": "./banner/gmail.png" }
+]
