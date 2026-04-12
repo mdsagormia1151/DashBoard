@@ -21,7 +21,7 @@
     color: #1a1f2a;
   }
   .body {
-    background: url("../../bg_light.webp");
+    background: url("../../assets/images/bg_light.webp");
     background-size: cover;
     background-attachment: fixed;
   }
@@ -32,7 +32,7 @@
     color: #fff;
   }
   .body {
-    background: url("../../bg_dark.webp");
+    background: url("../../assets/images/bg_dark.webp");
     background-size: cover;
     background-attachment: fixed;
   }
