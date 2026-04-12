@@ -100,7 +100,7 @@ youtube_input.addEventListener("keydown", (event) => {
 const link_section = document.querySelector(".link_section");
 const fetchLinks = async () => {
   try {
-    const response = await fetch("../../data/links.json");
+    const response = await fetch("https://raw.githubusercontent.com/mdsagormia1151/DashBoard/refs/heads/main/data/links.json");
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
